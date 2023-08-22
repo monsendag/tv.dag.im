@@ -1,10 +1,10 @@
 <h1>Streaming sites</h1>
 
 <ul>
-	<li><a href="https://twe.no">TWE</a></li>
-	<li><a href="https://tv.nrk.no">NRK</a></li>
-	<li><a href="https://play.hbomax.com">HBO</a></li>
-	<li><a href="https://app.plex.tv">Plex</a></li>
+	<li><a href="https://www.youtube.com/redirect?q=https://twe.no">TWE</a></li>
+	<li><a href="https://www.youtube.com/redirect?q=https://tv.nrk.no">NRK</a></li>
+	<li><a href="https://www.youtube.com/redirect?q=https://play.hbomax.com">HBO</a></li>
+	<li><a href="https://www.youtube.com/redirect?q=https://app.plex.tv">Plex</a></li>
 </ul>
 
 <style>
