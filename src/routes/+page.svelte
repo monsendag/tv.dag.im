@@ -26,6 +26,11 @@
 			url: "https://app.plex.tv",
 			image: "plex.webp"
 		},
+		{
+			title: "Disney Plus",
+			url: "https://www.disneyplus.com",
+			image: "disney-plus.webp"
+		},
 
 	]
 
